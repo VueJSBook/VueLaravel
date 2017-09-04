@@ -2,7 +2,7 @@
 
 This is the Laravel part of the Vue.js Book.
 
-Angular Book App is a starter template for your Angular applications. 
+Vue.js Book App is a starter template for your Vue.js applications. 
 
 ## Angular Book
 
